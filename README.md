@@ -1,0 +1,1 @@
+# sla_resource_inventory
